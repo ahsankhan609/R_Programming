@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R Programming"
-author: "Sana Rasheed"
-date: "May 14, 2020"
+author: "Ahsan Khan"
+date: "April 25, 2021"
 output: html_document
 ---
 
@@ -24,26 +24,41 @@ output: html_document
 
 ```{r }
 #### Start solution ####
-```
 
-
-```{r }
-
-```
-
-
-```{r }
+myName <- c("A", "H", "S", "A", "N")
+myName
 
 ```
 
 
 ```{r }
+##Solution # 2
+myLastName <- "Khan"
+concatName <- c(myName , myLastName)
+concatName
+```
+
+
+```{r }
+##Solution # 3
+m <- 100:120
 
 ```
 
 
 ```{r }
+##Solution # 4
+m <- matrix(2:10 ,nrow = 3, ncol = 3)
 
+```
+
+
+```{r }
+#Solution # 5
+freind1 <- "Abubakar"
+friend2 <- "Umer"
+friend3 = "Usman"
+friend4 = "Ali"
 ```
 
 
@@ -571,4 +586,4 @@ head(Orange)
 ```
 
 ### Save it and push .Rmd and .html file to your Github Repository
-## GOOD JOB! You have successfully finished the course!
+## GOOD JOB! You have successfully finished the course

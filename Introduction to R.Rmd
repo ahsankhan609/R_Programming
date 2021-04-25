@@ -590,3 +590,6 @@ head(Orange)
 
 
 ## New Commit Testing
+weeks <- factor(c("mon", "tue", "wed", "Thu", "Fri"), levels = c("mon", "tue","wed","thu","fri"))
+weeks
+

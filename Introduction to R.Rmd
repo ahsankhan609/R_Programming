@@ -587,3 +587,6 @@ head(Orange)
 
 ### Save it and push .Rmd and .html file to your Github Repository
 ## GOOD JOB! You have successfully finished the course
+
+
+## New Commit Testing
